@@ -11,7 +11,7 @@ Bővebben:
 
 [https://nik.uni-obuda.hu/targyleirasok/]
 
-[https://nik.uni-obuda.hu/targyleirasok/wp-content/uploads/2022/06/HFT_2022-23-I_BSC-1.pdf](https://nik.uni-obuda.hu/targyleirasok/tantargyak/halado-fejlesztesi-technikak-29/)
+https://nik.uni-obuda.hu/targyleirasok/wp-content/uploads/2023/06/HFT_2023-24-I_BSC.pdf
 
 # Pótlás
 
