@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXHCK9GsP3zk5ONltFJ2wnpGdUc1We6dnUzAt7t2h6Cqc0u51fs9Y7F/iRymBzzEZqs82A9iBTW/LastobWiLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\attila.molnar\\source\\repos\\Linq_Module02\\Linq_Module02\\Linq_Module02.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://buildsrv3.entwicklung.elpro.local:8080/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
