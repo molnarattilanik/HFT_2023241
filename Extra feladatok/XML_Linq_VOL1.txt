@@ -1,0 +1,19 @@
+XML és JSON
+Hozz létre Person osztályt a következő tulajdonságokkal:
+	Név, Életkor, Lakhely, Mobil, Email, Foglalkozás
+Hozz létre tetszőleges számú személyt.
+Mentsd el a gyűjteményt egy XML/Json formátumba.
+
+Olvasd be a catalog.xml file-t egy objektum gyűjteménybe! Az 'id' attributumot se felejtsd ki belőle
+Írasd ki a konzolra:
+- A 3 legdrágább könyvet.
+- Fantasy könyvek darabszámát
+- Legutóbb megjelent könyv íróját
+- A catalogusban megtaláléható könyvek árának az átlagát.
+- Mike Galos volt e bármelyiknek az irója
+- Legolcsóbb könyvet
+- Megjelenés szerint az összeset
+- Az írókat ABC szerint csökkenő sorrendben
+- Könyvtípúsonkénti darabszámot és átlagárat
+- Szerepel-e bármelyik leírásában a "Microsoft"
+
