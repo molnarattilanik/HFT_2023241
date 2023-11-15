@@ -1,0 +1,18 @@
+Olvassuk be a marvel.json - t saját objektumba
+Olvassuk be a book.xml-t egy saját objektumba, az attributumot is!
+
+Ki a legfiatalabb marvel hős? Egy önálló objektumba kérjük le, amely tartalmazza a színész nevét és a szerep nevét (actor, name) Mentsük el egy önálló XML fileba ezt az objektumot
+Melyik a legolcsóbb könyv? Egy önálló objektumba a könyv neve és a ára szerepeljen. Mentsük el egy json-ba!
+
+• Definiálj egy DataDescriptionAttribute egyedi attribútumot, amelynek van egy 
+Description (string) tulajdonsága.
+• Jelöld meg a Book osztály több tulajdonságát is ezzel az attribútummal. 
+Hozz létre egy statikus osztályt, amely segédmetódusokat biztosít a 
+Book osztály reflexiós vizsgálatához. (Extension method-okra gondolj):
+	• public static IEnumerable<string> ListAllProperties(): Visszaad egy string
+gyűjteményt, amelyek mindegyike a Book osztály egy-egy tulajdonságának nevét
+és annak típusát képviseli. Pl: $”{Name}: {Type}”;
+	• public static bool CheckForAttribute(string propertyName): Ellenőrzi, hogy egy 
+adott tulajdonság rendelkezik-e a DataDescriptionAttribute-tal.
+	• public static string GetAttributeValue(string propertyName): Visszanyeri a 
+DataDescriptionAttribute leírását egy adott tulajdonsághoz.

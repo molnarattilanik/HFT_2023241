@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <category name="dogs">
+        <book>
+            <title lang="english">All about dogs</title>
+            <author>Someone</author>
+            <isin>true</isin>
+            <daysuntilreturn>0</daysuntilreturn>
+            <price>15.10</price>
+        </book>
+    </category>
+     <category name="cats">
+        <book>
+            <title lang="english">All about cats</title>
+            <author>Someone</author>
+            <isin>false</isin>
+            <daysuntilreturn>3</daysuntilreturn>
+            <price>12.00</price>
+        </book>
+        <book>
+            <title lang="zulu">Konke mayelana ikati</title>
+            <author>Else</author>
+            <isin>true</isin>
+            <daysuntilreturn>0</daysuntilreturn>
+            <price>25.99</price>
+        </book>
+    </category>
+</library>
