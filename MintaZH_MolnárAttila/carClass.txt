@@ -1,0 +1,16 @@
+public class Car
+{
+    public string Name { get; set; } //Ferrari, Bmw, Honda, Lamborgini, Audi, Opel, Mercedes
+
+    public int HorsePower { get; set; }
+
+    public string Type { get; set; } //sportcar, suv, sedan, 
+
+    public int Year { get; set; } //i.e: 2010
+
+    public int Price { get; set; }
+
+    public string Color { get; set; } //Black, Red, Yellow, White, Blue, Green
+
+    public int Discount { get; set; }
+}
