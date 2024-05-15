@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<celebrities>
+    <celebrity>
+        <name>Emma Stone</name>
+        <nationality>American</nationality>
+        <birth_date>1988-11-06</birth_date>
+        <birth_place>Scottsdale, Arizona, USA</birth_place>
+        <age>33</age>
+        <num_films>30</num_films>
+        <oscar_nominations>3</oscar_nominations>
+        <oscar_awards>1</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>      
+    </celebrity>
+    <celebrity>
+        <name>Idris Elba</name>
+        <nationality>British</nationality>
+        <birth_date>1972-09-06</birth_date>
+        <birth_place>London, England</birth_place>
+        <age>51</age>
+        <num_films>60</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Drama</degree>
+        <is_producer>true</is_producer>       
+    </celebrity>
+    <celebrity>
+        <name>Leonardo DiCaprio</name>
+        <nationality>American</nationality>
+        <birth_date>1974-11-11</birth_date>
+        <birth_place>Los Angeles, California, USA</birth_place>
+        <age>49</age>
+        <num_films>50</num_films>
+        <oscar_nominations>7</oscar_nominations>
+        <oscar_awards>1</oscar_awards>
+        <degree>None</degree>
+        <is_producer>true</is_producer>      
+    </celebrity>
+    <celebrity>
+        <name>Margot Robbie</name>
+        <nationality>Australian</nationality>
+        <birth_date>1990-07-02</birth_date>
+        <birth_place>Gold Coast, Queensland, Australia</birth_place>
+        <age>33</age>
+        <num_films>25</num_films>
+        <oscar_nominations>2</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>       
+    </celebrity>
+    <celebrity>
+        <name>Tom Hardy</name>
+        <nationality>British</nationality>
+        <birth_date>1977-09-15</birth_date>
+        <birth_place>London, England</birth_place>
+        <age>46</age>
+        <num_films>40</num_films>
+        <oscar_nominations>1</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Drama</degree>
+        <is_producer>false</is_producer>       
+    </celebrity>
+    <celebrity>
+        <name>Zendaya</name>
+        <nationality>American</nationality>
+        <birth_date>1996-09-01</birth_date>
+        <birth_place>Oakland, California, USA</birth_place>
+        <age>27</age>
+        <num_films>15</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>      
+    </celebrity>
+    <celebrity>
+        <name>Tom Holland</name>
+        <nationality>British</nationality>
+        <birth_date>1996-06-01</birth_date>
+        <birth_place>Kingston upon Thames, England</birth_place>
+        <age>27</age>
+        <num_films>15</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>      
+    </celebrity>
+    <celebrity>
+        <name>Brad Pitt</name>
+        <nationality>American</nationality>
+        <birth_date>1963-12-18</birth_date>
+        <birth_place>Shawnee, Oklahoma, USA</birth_place>
+        <age>59</age>
+        <num_films>80</num_films>
+        <oscar_nominations>7</oscar_nominations>
+        <oscar_awards>2</oscar_awards>
+        <degree>Journalism</degree>
+        <is_producer>true</is_producer>   
+    </celebrity>
+    <celebrity>
+        <name>Timothée Chalamet</name>
+        <nationality>American</nationality>
+        <birth_date>1995-12-27</birth_date>
+        <birth_place>New York City, New York, USA</birth_place>
+        <age>27</age>
+        <num_films>15</num_films>
+        <oscar_nominations>1</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>    
+    </celebrity>
+    <celebrity>
+        <name>Robert Downey Jr.</name>
+        <nationality>American</nationality>
+        <birth_date>1965-04-04</birth_date>
+        <birth_place>Manhattan, New York, USA</birth_place>
+        <age>58</age>
+        <num_films>60</num_films>
+        <oscar_nominations>2</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>true</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Michael Caine</name>
+        <nationality>British</nationality>
+        <birth_date>1933-03-14</birth_date>
+        <birth_place>Rotherhithe, London, England</birth_place>
+        <age>90</age>
+        <num_films>130</num_films>
+        <oscar_nominations>6</oscar_nominations>
+        <oscar_awards>2</oscar_awards>
+        <degree>None</degree>
+        <is_producer>true</is_producer> 
+    </celebrity>
+    <celebrity>
+        <name>Sandra Bullock</name>
+        <nationality>American</nationality>
+        <birth_date>1964-07-26</birth_date>
+        <birth_place>Arlington, Virginia, USA</birth_place>
+        <age>59</age>
+        <num_films>50</num_films>
+        <oscar_nominations>2</oscar_nominations>
+        <oscar_awards>1</oscar_awards>
+        <degree>Bachelor of Fine Arts</degree>
+        <is_producer>false</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Tom Hiddleston</name>
+        <nationality>British</nationality>
+        <birth_date>1981-02-09</birth_date>
+        <birth_place>Westminster, London, England</birth_place>
+        <age>42</age>
+        <num_films>30</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Classics</degree>
+        <is_producer>false</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Cillian Murphy</name>
+        <nationality>Irish</nationality>
+        <birth_date>1976-05-25</birth_date>
+        <birth_place>Douglas, Cork, Ireland</birth_place>
+        <age>47</age>
+        <num_films>40</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Law</degree>
+        <is_producer>false</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Florence Pugh</name>
+        <nationality>British</nationality>
+        <birth_date>1996-01-03</birth_date>
+        <birth_place>Oxford, England</birth_place>
+        <age>27</age>
+        <num_films>20</num_films>
+        <oscar_nominations>1</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Seth Rogen</name>
+        <nationality>Canadian</nationality>
+        <birth_date>1982-04-15</birth_date>
+        <birth_place>Vancouver, British Columbia, Canada</birth_place>
+        <age>41</age>
+        <num_films>60</num_films>
+        <oscar_nominations>1</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>true</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Bruce Willis</name>
+        <nationality>American</nationality>
+        <birth_date>1955-03-19</birth_date>
+        <birth_place>Idar-Oberstein, West Germany</birth_place>
+        <age>68</age>
+        <num_films>120</num_films>
+        <oscar_nominations>0</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Drama</degree>
+	    <is_producer>true</is_producer>
+    </celebrity>
+    <celebrity>
+        <name>Michael Fassbender</name>
+        <nationality>Irish</nationality>
+        <birth_date>1977-04-02</birth_date>
+        <birth_place>Heidelberg, West Germany</birth_place>
+        <age>46</age>
+        <num_films>40</num_films>
+        <oscar_nominations>2</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>Drama</degree>
+        <is_producer>true</is_producer>  
+    </celebrity>
+    <celebrity>
+        <name>Saoirse Ronan</name>
+        <nationality>Irish</nationality>
+        <birth_date>1994-04-12</birth_date>
+        <birth_place>New York City, New York, USA</birth_place>
+        <age>29</age>
+        <num_films>30</num_films>
+        <oscar_nominations>4</oscar_nominations>
+        <oscar_awards>0</oscar_awards>
+        <degree>None</degree>
+        <is_producer>false</is_producer>     
+    </celebrity>
+    <celebrity>
+        <name>Robert De Niro</name>
+        <nationality>American</nationality>
+        <birth_date>1943-08-17</birth_date>
+        <birth_place>Manhattan, New York, USA</birth_place>
+        <age>80</age>
+        <num_films>100</num_films>
+        <oscar_nominations>7</oscar_nominations>
+        <oscar_awards>2</oscar_awards>
+        <degree>Fine Arts</degree>
+        <is_producer>true</is_producer>      
+    </celebrity>
+</celebrities>
