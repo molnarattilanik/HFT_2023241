@@ -8,7 +8,7 @@ public class Car
 
     public int Year { get; set; } //i.e: 2010
 
-    public int Price { get; set; }
+    public double Price { get; set; }
 
     public string Color { get; set; } //Black, Red, Yellow, White, Blue, Green
 
